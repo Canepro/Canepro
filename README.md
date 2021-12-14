@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Canepro
-- 👀 I’m interested in Cloud computing 
-- 🌱 I’m currently learning Azure cloud and AWS
+- 👀 I’m interested in Cloud computing and Web Apps Development.
+- 🌱 I’m currently learning HTML, CSS, JS, Azure cloud and AWS.
 - 💞️ I’m looking to collaborate on any cloud related projects
 - 📫 How to reach me mogah.vincent@hotmail.com
 

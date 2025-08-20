@@ -42,6 +42,7 @@ I am always open to collaborating on innovative projects. If you're looking for 
 
 ### 📫 Get In Touch
 
+-   **Portfolio:** [portfolio.canepro.me](https://portfolio.canepro.me/)
 -   **LinkedIn:** [linkedin.com/in/vincent-mogah](https://www.linkedin.com/in/vincent-mogah/)
 -   **Email:** [mogah.vincent@hotmail.com](mailto:mogah.vincent@hotmail.com)
 -   **Rocket.Chat:** `vincent.mogah@rocket.chat` or `@vincent.mogah`

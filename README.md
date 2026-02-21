@@ -52,14 +52,14 @@ Cloud and DevOps engineer focused on reliable delivery systems, AI-assisted oper
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Canepro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=21600" alt="Canepro GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canepro&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600" alt="Canepro top languages" />
+  <img src="https://img.shields.io/github/followers/Canepro?style=for-the-badge&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Canepro/pipelinehealer?style=for-the-badge&label=PipelineHealer%20Stars" alt="PipelineHealer stars" />
+  <img src="https://img.shields.io/github/last-commit/Canepro/pipelinehealer?style=for-the-badge&label=PipelineHealer%20Last%20Commit" alt="PipelineHealer last commit" />
 </p>
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Canepro&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Canepro contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Canepro&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Canepro contribution streak" />
 </p>
 
-If cards fail to render temporarily:
 - Contributions calendar: https://github.com/Canepro
 - Repositories: https://github.com/Canepro?tab=repositories
 - PipelineHealer releases: https://github.com/Canepro/pipelinehealer/releases
